@@ -43,7 +43,6 @@
 <script>
 import { mapGetters, mapState } from 'vuex'
 import Rox from 'rox-browser'
-
 export default {
   methods: {
     logout () {
